@@ -2,7 +2,7 @@ TextAdventure
 =============
 
 A simple text game for the first Tufts Weekly Hack.
-It's a short simulation of working on a class project, and/or working on a CS progect in general.
+It's a short simulation of working on a class project and/or working on a CS progect in general.
 It's meant to be light hearted and quick so give it a shot!
 
 How it works:
