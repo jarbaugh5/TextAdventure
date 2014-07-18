@@ -7,7 +7,7 @@ By: Jon Arbaugh
 Tufts 2017
 '''
 
-from story import story
+from story import *
 from runner import runner
 
 
