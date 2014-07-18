@@ -1,5 +1,5 @@
 '''
-The story is a a series of nested dicts and arrays.
+The story is a series of nested dicts and arrays.
 Its probably not the cleanest solution, but it works for small game.
 
 The story object works like this:
