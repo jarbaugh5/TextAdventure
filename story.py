@@ -23,14 +23,20 @@ Tufts 2017
 '''
 
 story = {
-	'message': 'This is the first message of the story! Choose yes or no!',
+	'message': 'Wow! What a great Comp40 lecture!! Professor mentioned a new\n' +
+	'assignment today. Should you look for a partner?',
 
-	'branches': {
-		'yes': {
+	'options': [
+		'Hmm alright I\'ll be responsible',
+		'How bout or nah'
+	],
+
+	'branches': [
+		{
 			'message': 'You chose the yes option!'
 		},
-		'no': {
+		{
 			'message': 'You chose the no option!'
 		}
-	}
+	]
 }
